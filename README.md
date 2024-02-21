@@ -28,4 +28,7 @@ Here are some ideas to get you started:
 <a href="https://17aryan.github.io">
   <img height="50" src="https://github.com/17Aryan/17Aryan/assets/80637463/80ab1a63-095e-4905-955c-e3557cb17c44"/>
 </a>
+<p align="center">
+  <img height="50" src="https://media.giphy.com/media/9Oh1PIxWEPHPi/giphy.gif?cid=790b7611zrzcua420m2yhn39j669gnyqmi1snofjefru1u9u&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+</p>
 
