@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello Developers!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://media.giphy.com/media/9Oh1PIxWEPHPi/giphy.gif?cid=790b7611zrzcua420m2yhn39j669gnyqmi1snofjefru1u9u&ep=v1_gifs_search&rid=giphy.gif&ct=g?text=Hello Developers!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 
@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/aryan-tiwari-9a5396204/">
   <img height="50" src="https://github.com/17Aryan/17Aryan/assets/80637463/4e9e24da-bd7b-4af5-b8a8-171bbdfa1816"/>
 </a>
+<a href="https://17aryan.github.io">
+  <img height="50" src="https://github.com/17Aryan/17Aryan/assets/80637463/80ab1a63-095e-4905-955c-e3557cb17c44"/>
+</a>
+
